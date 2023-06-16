@@ -20,3 +20,5 @@ C:\Users\Kiki\Desktop\Code\c# projects\ImageFlipper\ImageFlipper\obj\Debug\net7.
 C:\Users\Kiki\Desktop\Code\c# projects\ImageFlipper\ImageFlipper\obj\Debug\net7.0-windows\ImageFlipper.genruntimeconfig.cache
 C:\Users\Kiki\Desktop\Code\c# projects\ImageFlipper\ImageFlipper\obj\Debug\net7.0-windows\ref\ImageFlipper.dll
 C:\Users\Kiki\Desktop\Code\c# projects\ImageFlipper\ImageFlipper\obj\Debug\net7.0-windows\ImageFlipper_Content.g.cs
+C:\Users\Kiki\Desktop\Code\c# projects\ImageFlipper\ImageFlipper\obj\Debug\net7.0-windows\Styles\Buttons.baml
+C:\Users\Kiki\Desktop\Code\c# projects\ImageFlipper\ImageFlipper\obj\Debug\net7.0-windows\App.baml

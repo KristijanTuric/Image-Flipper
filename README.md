@@ -7,3 +7,4 @@ To do:
 - [X] Image rotation and open new image file
 - [ ] Style buttons
 - [ ] Style window
+- [ ] Fix the crash that happens when you open the fileOpenDialog but dont chose any file

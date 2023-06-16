@@ -34,19 +34,19 @@
                     Grid.Row="1"
                     HorizontalAlignment="Center">
             
-            <Button Content="Left" 
-                    Width="50"
-                    Margin="0 0 10 0"
+            <Button Content="Left"
+                    Width="75"
+                    Margin="0 0 10 0"                    
                     Click="ButtonClick_RotateLeft"
                     ></Button>
 
             <Button Content="Right"
-                    Width="50"
+                    Width="75"
                     Margin="10 0 0 0"
                     Click="ButtonClick_RotateRight"
                     ></Button>
             <Button Content="Open"
-                     Width="50"
+                     Width="75"
                     Margin="20 0 0 0"
                     Click="ButtonClick_OpenImage"
                     ></Button>
